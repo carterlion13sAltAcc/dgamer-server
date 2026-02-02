@@ -1,4 +1,4 @@
-FROM dtcooper/raspberrypi-os:bullseye
+FROM ghcr.io/raspberrypi/raspios:bullseye-arm64
 
 LABEL name="nintendo-dgamer"
 LABEL description="nintendo-dgamer is a replacement DGamer (DS/DSi) server"
