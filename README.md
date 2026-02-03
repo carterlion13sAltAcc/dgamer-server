@@ -1,6 +1,6 @@
 ![DGamer Logo](dgamer-logo.png)
 
-This project builds a Docker image that replaces the web servers for Nintendo Wifi and DGamer:
+This project builds a Docker image that replaces the web servers for DGamer:
 
 - home.disney.go.com (HTTPS/443)
 
